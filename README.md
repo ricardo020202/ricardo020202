@@ -1,7 +1,7 @@
 ### General Kenobi 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Web development  and Computer vision systems<br>🌱 I’m currently learning Cybersecurity and Videogame development<br>👯 I’m looking to collaborate on Computer vision, cybersecurity and videogame development<br>🤔 I’m looking for help with ...<br>💬 Ask me about C++, OOP,  web development, Computer vision<br>📫 How to reach me: ...<br>😄 Pronouns: He/Him<br>⚡ Fun fact: ...
+🔭 I’m currently working in Data governance <br>🌱 I’m currently learning Cybersecurity and Videogame development<br>👯 I’m looking to collaborate on Computer vision, cybersecurity and videogame development<br>🤔 I’m looking for help with ...<br>💬 Ask me about C++, OOP,  web development, Computer vision<br>📫 How to reach me: ...<br>😄 Pronouns: He/Him<br>⚡ Fun fact: ...
 
 
 ## 🌐 Socials:
